@@ -18,7 +18,7 @@ ERRORS: dict[int, str] = {
 # Special types
 RawData = dict[str, Any]
 
-DEFAULT_BASE_URL: str = "https://api.netatmo.com/"
+DEFAULT_BASE_URL: str = "https://api.inte.netatmo.com/"
 
 # Endpoints
 AUTH_REQ_ENDPOINT = "oauth2/token"
